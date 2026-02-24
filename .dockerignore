@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+
+.git/
+.gitignore
+
+.env
+
+# MLflow files ignore karein (Inki zaroorat nahi hai image mein)
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Inhe image se hatayein taaki size kam rahe
+artifacts/
+logs/
+.ipynb_checkpoints/
+notebooks/
