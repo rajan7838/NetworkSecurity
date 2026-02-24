@@ -1,5 +1,8 @@
-NetworkSecurity – Phishing Domain Detection
+##NetworkSecurity – Phishing Domain Detection
+
 An End-to-End MLOps project designed to identify phishing websites. This project integrates classical Machine Learning with modern DevOps tools like Docker, MLflow, and AWS for a production-ready experience.
+
+ Experience the application live on AWS: http://16.16.27.72:8501
 
 Key Features
 Automated Pipeline: Modular ingestion, preprocessing, and training stages.
